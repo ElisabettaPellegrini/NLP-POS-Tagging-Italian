@@ -22,5 +22,4 @@ Specifically, the project compares the automated output of the **SpaCy** model (
 * **SpaCy** (NLP Pipeline)
 * **Pandas** (Data manipulation)
 * **Scikit-learn** (Evaluation metrics)
-* **Matplotlib & Seaborn** (Data visualization)# NLP-POS-Tagging-Italian
-Evaluation of an NLP POS Tagging model on Italian texts using Python and SpaCy
+* **Matplotlib & Seaborn** (Data visualization)
